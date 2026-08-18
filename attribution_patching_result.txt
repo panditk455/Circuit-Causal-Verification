@@ -1,0 +1,19 @@
+clean=21.7483 corrupted=0.5746 gap=21.1737
+
+known_circuit=[(5, 1), (5, 5), (6, 9), (7, 2), (7, 10)]
+top10_predicted=[(7, 2), (6, 9), (9, 9), (10, 7), (9, 6), (7, 10), (10, 0), (5, 1), (11, 10), (10, 1)]
+overlap=[(5, 1), (6, 9), (7, 2), (7, 10)] (4/5)
+
+L7H2: predicted_attribution=1.6776 actual_recovery=0.0835
+L6H9: predicted_attribution=1.3696 actual_recovery=0.0804
+L9H9: predicted_attribution=1.3058 actual_recovery=0.0613
+L10H7: predicted_attribution=-1.2654 actual_recovery=-0.0567
+L9H6: predicted_attribution=1.1898 actual_recovery=0.0561
+L7H10: predicted_attribution=1.1620 actual_recovery=0.0556
+L10H0: predicted_attribution=1.0041 actual_recovery=0.0467
+L5H1: predicted_attribution=0.9203 actual_recovery=0.0979
+L11H10: predicted_attribution=-0.7588 actual_recovery=-0.0349
+L10H1: predicted_attribution=0.7471 actual_recovery=0.0348
+
+spearman_rank_correlation=0.4424
+control L4H11: predicted_attribution=-0.0138 actual_recovery=-0.0003

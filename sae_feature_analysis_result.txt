@@ -1,0 +1,17 @@
+clean=21.7623 corrupted=0.2958 gap=21.4664
+
+=== Layer 5 ===
+reconstruction_error/norm = 1.2805/2.3614 (0.5422)
+naive_loudest_feature=12580 best_head_by_decoder_norm=9 share=0.2034 (check against target heads [5])
+L5H5: n_candidates=32 full_head_recovery=0.0584 full_sae_reconstruction_recovery=0.0430 single_feature_recovery=0.0002 top10_features_recovery=0.0009 control_feature_recovery=0.0000
+
+=== Layer 6 ===
+reconstruction_error/norm = 1.3912/2.2083 (0.6300)
+naive_loudest_feature=24388 best_head_by_decoder_norm=7 share=0.2628 (check against target heads [9])
+L6H9: n_candidates=282 full_head_recovery=0.0785 full_sae_reconstruction_recovery=0.0503 single_feature_recovery=0.0019 top10_features_recovery=0.0080 control_feature_recovery=0.0000
+
+=== Layer 7 ===
+reconstruction_error/norm = 1.4744/2.1461 (0.6870)
+naive_loudest_feature=27367 best_head_by_decoder_norm=6 share=0.3846 (check against target heads [10, 2])
+L7H10: n_candidates=76 full_head_recovery=0.0572 full_sae_reconstruction_recovery=0.0346 single_feature_recovery=0.0005 top10_features_recovery=0.0034 control_feature_recovery=0.0000
+L7H2: n_candidates=427 full_head_recovery=0.0827 full_sae_reconstruction_recovery=0.0422 single_feature_recovery=0.0006 top10_features_recovery=0.0111 control_feature_recovery=0.0000

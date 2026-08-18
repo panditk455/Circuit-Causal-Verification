@@ -1,0 +1,11 @@
+Clean logit (upper bound): 21.6632
+Corrupted logit (lower bound): 0.3985
+
+L5H5 (top induction head): patched=1.6276 recovery=0.0578
+L6H9 (2nd induction head): patched=2.0779 recovery=0.0790
+L7H10 (3rd induction head): patched=1.5646 recovery=0.0548
+L4H11 (control, lowest induction score): patched=0.4148 recovery=0.0008
+
+All 3 top heads combined: patched=7.1590 recovery=0.3179
+Top 5 heads combined: patched=17.4707 recovery=0.8028
+[sanity check] full resid_post patch after layer 7: recovery=1.0000

@@ -1,0 +1,3 @@
+baseline=0.9290
+pt_ablated (L4H11)=0.6894 drop=0.2396
+control_ablated (L0H5)=0.9320 drop=-0.0030

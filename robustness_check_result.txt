@@ -1,0 +1,5 @@
+Exact-match specificity test (see 05_robustness_check.py for method)
+
+L5H5: at_corrupted=0.9523 baseline=0.9112 drop=-0.0411
+L6H9: at_corrupted=0.9381 baseline=0.8931 drop=-0.0450
+L7H10: at_corrupted=0.9312 baseline=0.8871 drop=-0.0441

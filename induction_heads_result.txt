@@ -1,0 +1,9 @@
+Top candidate induction heads (layer, head, induction_score):
+L5H5	0.9265
+L6H9	0.9206
+L7H10	0.9141
+L5H1	0.9027
+L7H2	0.8221
+
+Control (lowest-scoring) head:
+L4H11	0.0000

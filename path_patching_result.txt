@@ -1,0 +1,7 @@
+Top previous-token head: L4H11 score=0.9851
+Control head: L0H5 score=0.0004
+
+Receiver L5H5 induction-attention score:
+clean=0.9290 corrupted=0.0020
+sender_patched=0.0029 recovery=0.0010
+control_patched=0.0032 recovery=0.0013
